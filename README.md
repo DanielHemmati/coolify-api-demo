@@ -12,3 +12,13 @@ This was a feature request for [coolify](https://github.com/coollabsio/coolify/i
 4. Run `uv sync` to install the dependencies
 5. Run `uv run main.py` to see the demo
 
+## API Endpoints
+
+`GET /api/v1/databases`
+
+`GET /api/v1/databases/{uuid}/backups`
+
+`PATCH /api/v1/databases/{uuid}`
+
+`DELETE /api/v1/databases/{uuid}/backups/{backup_id}`
+
