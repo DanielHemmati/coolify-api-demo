@@ -2,6 +2,8 @@
 
 This is a demo of the coolify backup api endpoints, using Python. 
 
+This was a feature request for [coolify](https://github.com/coollabsio/coolify/issues/5672)
+
 ## Setup
 
 1. Clone the repository
