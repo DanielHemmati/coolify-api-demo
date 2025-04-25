@@ -14,11 +14,11 @@ This was a feature request for [coolify](https://github.com/coollabsio/coolify/i
 
 ## API Endpoints
 
-`GET /api/v1/databases`
+`GET /databases`
 
-`GET /api/v1/databases/{uuid}/backups`
+`GET /databases/:uuid/backups`
 
-`PATCH /api/v1/databases/{uuid}`
+`PATCH /databases/:uuid`
 
-`DELETE /api/v1/databases/{uuid}/backups/{backup_id}`
+`DELETE /databases/:uuid/backups/:backup_id`
 
